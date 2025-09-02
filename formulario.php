@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <form action="salvar_cadastro.php" method="get">
+    <form action="respostas.php" method="post">
         <pre>
         <label for ="">nome:</label>
         <input type = "text" name="nome">
